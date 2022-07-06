@@ -1,0 +1,5 @@
+/Users/jaysprout/Documents/GitHub/GH-revature/HelloWorld/bin/Release/net6.0/publish/HelloWorld
+/Users/jaysprout/Documents/GitHub/GH-revature/HelloWorld/bin/Release/net6.0/publish/HelloWorld.dll
+/Users/jaysprout/Documents/GitHub/GH-revature/HelloWorld/bin/Release/net6.0/publish/HelloWorld.deps.json
+/Users/jaysprout/Documents/GitHub/GH-revature/HelloWorld/bin/Release/net6.0/publish/HelloWorld.runtimeconfig.json
+/Users/jaysprout/Documents/GitHub/GH-revature/HelloWorld/bin/Release/net6.0/publish/HelloWorld.pdb
