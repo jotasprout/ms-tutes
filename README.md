@@ -2,8 +2,8 @@
 
 ## Tutorials for Hello World
 1. [Create a .NET console application using Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-6-0)
-2. []()
-3. []()
+2. [Debug a .NET console application using Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/core/tutorials/debugging-with-visual-studio-code?pivots=dotnet-6-0)
+3. [Publish a .NET console application using Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/core/tutorials/publishing-with-visual-studio-code?pivots=dotnet-6-0)
 4. []()
 5. []()
 6. []()
